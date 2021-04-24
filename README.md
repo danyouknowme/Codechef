@@ -12,4 +12,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
-#### This repository represents coding problems in CodeChef that I completed with Python, C, C++, JAVA, Javascript. I hope it should help you guys more or less.
+This repository represents coding problems in CodeChef that I completed with Python, C, C++, JAVA, Javascript. I hope it should help you guys more or less.
+
+#### Installing
