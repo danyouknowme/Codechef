@@ -11,11 +11,9 @@ int main() {
 	    cin >> arr_sz;
 	    int arr[arr_sz];
 	    for (int j=0; j<arr_sz; j++) {
-	        int a;
-	        cin >> a;
-	        arr[j] = a;
+	        cin >> arr[j];
 	    }
 	    sort(arr, arr + arr_sz);
-	    cout << arr[0] + arr[1];
+	    cout << arr[0] + arr[1] << endl;
 	}
 }
