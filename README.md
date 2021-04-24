@@ -22,3 +22,14 @@ For Javascript I didn't use IDEs on CodeChef so I have to install this module.
 npm install prompt-sync
 ```
 ## Let's Start to Coding.
+[CodeChef](https://www.codechef.com)
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+[![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
+
+<p>&nbsp;</p>
+
+### - Develop by Thanathip S.
