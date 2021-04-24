@@ -10,5 +10,5 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
-## Complete the problem solutions in programming language.
+## Complete the problem solutions of coding problem in CodeChef by multiple languages.
 
