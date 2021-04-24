@@ -1,8 +1,10 @@
 # CODECHEF
-
+<p>&nbsp;</p>
 <p align="center">
   <img width="500" src="https://user-images.githubusercontent.com/78087668/115964569-57dc8000-a54f-11eb-9f33-3ef70afbf133.png">
 </p>
+<p>&nbsp;</p>
+
 
 ## Complete the problem solutions of coding problem in CodeChef by multiple languages.
 
@@ -14,10 +16,9 @@
 
 This repository represents coding problems in CodeChef that I completed with Python, C, C++, JAVA, Javascript. I hope it should help you guys more or less.
 
-### Installing
+### Javascript Modules
 For Javascript I didn't use IDEs on CodeChef so I have to install this module.
 ```
 npm install prompt-sync
 ```
-
 ## Let's Start to Coding.
