@@ -1,5 +1,5 @@
 # Codechef
 #Complete the problem solutions in programming language.
 
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
-https://forthebadge.com/images/badges/fuck-it-ship-it.svg
+[![forthebadge](https://forthebadge.com/images/badges/yeah-ship-it.svg)](https://forthebadge.com)
+
