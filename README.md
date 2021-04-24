@@ -14,4 +14,10 @@
 
 This repository represents coding problems in CodeChef that I completed with Python, C, C++, JAVA, Javascript. I hope it should help you guys more or less.
 
-#### Installing
+### Installing
+For Javascript I didn't use IDEs on CodeChef so I have to install this module.
+```
+npm install prompt-sync
+```
+
+## Let's Start to Coding.
