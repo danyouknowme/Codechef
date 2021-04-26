@@ -13,20 +13,20 @@ class Codechef {
 		for (int i=0; i<n; i++) {
 		    int hardness = sc.nextInt();
 		    float carbon = sc.nextFloat();
-	        int tensile = sc.nextInt();
-    	    if (hardness > 50 && carbon < 0.7 && tensile > 5600) {
-    	        System.out.println(10);
-    	    } else if (hardness > 50 && carbon < 0.7) {
-    	        System.out.println(9);
-    	    } else if (carbon < 0.7 && tensile > 5600) {
-    	        System.out.println(8);
-    	    } else if (hardness > 50 && tensile > 5600) {
-    	        System.out.println(7);
-    	    } else if (hardness > 50 || carbon < 0.7 || tensile > 5600) {
-    	        System.out.println(6);
-    	    } else {
-    	        System.out.println(5);
-    	    }
+	       	    int tensile = sc.nextInt();
+		    if (hardness > 50 && carbon < 0.7 && tensile > 5600) {
+			System.out.println(10);
+		    } else if (hardness > 50 && carbon < 0.7) {
+			System.out.println(9);
+		    } else if (carbon < 0.7 && tensile > 5600) {
+			System.out.println(8);
+		    } else if (hardness > 50 && tensile > 5600) {
+			System.out.println(7);
+		    } else if (hardness > 50 || carbon < 0.7 || tensile > 5600) {
+			System.out.println(6);
+		    } else {
+			System.out.println(5);
+		    }
 	    }
     }
 }
